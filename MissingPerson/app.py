@@ -7,7 +7,7 @@ from mail import send_email
 def app():
     
     
-    st.title('Missing Person Identification System')
+    st.title('RescueNet')
 
     tab1, tab2 = st.tabs(['Report', 'Find'])
     
